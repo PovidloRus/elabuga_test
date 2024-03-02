@@ -1,5 +1,4 @@
 import copy
-from dataclasses import dataclass
 
 
 class Log:
